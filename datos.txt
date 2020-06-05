@@ -1,1 +1,4 @@
-
+A - Azul
+B - Amarillo
+C - Verde
+D - El de Alfa
