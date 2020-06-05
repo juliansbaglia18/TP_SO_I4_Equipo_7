@@ -2,3 +2,8 @@ A - Azul
 B - Amarillo
 C - Verde
 D - El de Alfa
+E - Beta y Gamma tuvieron prblemas 
+F - No pudo hacer push en el archivo
+G - Haciendo pull antes del push
+H - El push -f fuerza la subida de los cambios
+I - Haciendo pull antes de cada push y haciendo merge de Testing con Desarrollo
